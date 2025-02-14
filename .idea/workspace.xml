@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a411b994-5e9c-4573-aa2b-ae3a7ec041b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProjectsGit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FirstProjectPython.py" afterDir="false" />
-    </list>
+    <list default="true" id="a411b994-5e9c-4573-aa2b-ae3a7ec041b3" name="Changes" comment="My first Python Project, featuring a topic of &quot;YouTube Channel Name&quot;&#10;&#10;Over the past few days, I had started learning Python, so it's a new Programming Language for me, be gentle!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/TarikITAcademy/PythonProjectsGit",
+    "accountId": "a9a01574-204b-4d3a-8423-f7b53fa2c540"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -61,6 +60,15 @@
       <option name="presentableId" value="Default" />
       <updated>1739568416356</updated>
     </task>
+    <task id="LOCAL-00001" summary="My first Python Project, featuring a topic of &quot;YouTube Channel Name&quot;&#10;&#10;Over the past few days, I had started learning Python, so it's a new Programming Language for me, be gentle!">
+      <option name="closed" value="true" />
+      <created>1739569794238</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739569794238</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,5 +81,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My first Python Project, featuring a topic of &quot;YouTube Channel Name&quot;&#10;&#10;Over the past few days, I had started learning Python, so it's a new Programming Language for me, be gentle!" />
+    <option name="LAST_COMMIT_MESSAGE" value="My first Python Project, featuring a topic of &quot;YouTube Channel Name&quot;&#10;&#10;Over the past few days, I had started learning Python, so it's a new Programming Language for me, be gentle!" />
   </component>
 </project>
