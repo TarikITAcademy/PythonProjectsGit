@@ -36,7 +36,8 @@ game_images = [rock, paper, scissors]
 # Defining user and computer
 
 user_input = int(input("Rock is 0, Paper is 1, Scissors is 2. Which do You choose? \n"))
-print(game_images[user_input])
+if user_input in range(0, 3):
+    print(game_images[user_input])
 computers_choice = random.randint(0, 2)
 print(f"Computer choose {computers_choice}")
 print(game_images[computers_choice])
